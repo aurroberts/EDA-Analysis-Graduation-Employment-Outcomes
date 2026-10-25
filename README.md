@@ -8,7 +8,7 @@ Key findings:
 2. Unemployment is similar across both groups (6.9% vs. 6.2%), so the gap is in pay, not job access.
 3. Women make up 19% of graduates in the 10 highest-paid majors and 75% in the 10 lowest-paid.
 
-Methods: PivotTables, lookup functions, summary statistics, and conditional-formatting heatmaps to compare salaries, unemployment, part-time work, and low-wage and non-college employment across majors and major categories.
+Methods: PivotTables, XLOOKUP, summary statistics, and conditional-formatting heatmaps to compare salaries, unemployment, part-time work, and low-wage and non-college employment across majors and major categories.
 
 Recommendations: internship pipelines for majors with above-average unemployment, career-transition support, and early outreach to widen access to higher-earning pathways.
 
