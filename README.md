@@ -2,7 +2,7 @@
 
 Exploratory analysis of employment and earnings outcomes for recent graduates across 173 college majors (FiveThirtyEight / U.S. Census ACS data), framed as a program-evaluation case for university leadership.
 
-Key findings
+Key findings:
 
 1. Share of women in a major correlates −0.62 with median salary; predominantly female majors earn a median of $33K vs. $50K for predominantly male majors.
 2. Unemployment is similar across both groups (6.9% vs. 6.2%), so the gap is in pay, not job access.
