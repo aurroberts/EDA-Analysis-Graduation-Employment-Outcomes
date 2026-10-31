@@ -12,6 +12,13 @@ Methods: PivotTables, XLOOKUP, summary statistics, and conditional-formatting he
 
 Recommendations: internship pipelines for majors with above-average unemployment, career-transition support, and early outreach to widen access to higher-earning pathways.
 
-<img width="65" height="222" alt="Screenshot 2026-10-24 at 10 39 18 PM" src="https://github.com/user-attachments/assets/d3edbdcc-5510-4c71-9a4e-63a8492f1c3f" />
+### Who earns the most and least?
+
+Women make up **20%** of graduates in the highest-paying majors and **79%** in the lowest-paying majors.
+
+*Shading shows the share of women in each major, on a fixed 0-100% scale.*
+
 <img width="844" height="420" alt="image" src="https://github.com/user-attachments/assets/045acd1c-4285-4a15-adf9-37fe610868e3" />
+<img width="1080" height="516" alt="image" src="https://github.com/user-attachments/assets/443cc74b-225c-45f5-a84e-10a48983c4e7" />
+
 
